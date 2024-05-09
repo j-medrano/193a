@@ -1,4 +1,6 @@
-
+// Jonathan Medrano
+// CSC 193a
+// Assignment 5
 
 function alertBox(){
   alert("hello,world")
